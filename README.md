@@ -1,2 +1,0 @@
-# VQH
-text
